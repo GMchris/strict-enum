@@ -1,0 +1,22 @@
+{
+  "name": "strict-enum",
+  "version": "1.0.0",
+  "description": "A JavaScript enum implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GMchris/strict-enum.git"
+  },
+  "keywords": [
+    "enum"
+  ],
+  "author": "Kristian Ignatov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GMchris/strict-enum/issues"
+  },
+  "homepage": "https://github.com/GMchris/strict-enum#readme"
+}
