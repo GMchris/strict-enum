@@ -4,7 +4,7 @@
 * @param {string[]|string|object} arguments[0] - A collection of items for the enum
 * @param {string} arguments[1...] - Any amount of items to add to the enum
 */
-exports.default.Enum = function() {
+module.exports = function Enum() {
 	// If used as a function rather than a constructor, call with new and use the passed arguments.
 	if (!new.target) {
 		var args = arguments;
